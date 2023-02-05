@@ -30,7 +30,7 @@
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maybemanik&show_icons=true&locale=en&layout=compact" alt="maybemanik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maybemanik&show_icons=true&locale=en" alt="maybemanik" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=maybemanik&show_icons=true&locale=en" alt="maybemanik" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maybemanik&" alt="maybemanik" /></p>
