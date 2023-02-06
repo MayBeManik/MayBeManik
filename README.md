@@ -1,4 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/MayBeManik/MayBeManik/main/Manik%20Kumar%20(2).gif)
+
 <h1 align="center">Hi 👋, I'm Manik Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif">
@@ -27,6 +28,7 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 	
+	
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maybemanik&show_icons=true&locale=en&layout=compact" alt="maybemanik" /></p>
 
@@ -34,4 +36,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maybemanik&" alt="maybemanik" /></p>
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
 
