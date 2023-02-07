@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/may_be_manik" target="blank"><img src="https://img.shields.io/twitter/follow/may_be_manik?logo=twitter&style=for-the-badge" alt="may_be_manik" /></a> </p>
 
-- 💬 Ask me about **Data Visualization and EDA**
+- 💬 Ask me about **Data Visualization, ETL and EDA**
 
 - 📫 How to reach me **manik.kumar1011@gmail.com**
 
