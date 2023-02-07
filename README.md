@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/MayBeManik/MayBeManik/main/Manik%20Kumar%20(2).gif)
+![MasterHead](https://raw.githubusercontent.com/MayBeManik/MayBeManik/main/Images/Manik%20Kumar%20(2).gif)
 
 <h1 align="center">Hi 👋, I'm Manik Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
