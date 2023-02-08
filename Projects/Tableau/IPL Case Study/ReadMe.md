@@ -1,6 +1,7 @@
 # IPL Dashboard Preview
 
-I have used many calculated fields and diffrent logices to create this beautyful dashboard.
+A beautiful dashborad with interactive charts.
+I have used many calculated fields and diffrent logices to create this beautiful dashboard.
 
 Made with ❤️ by Manik
 
