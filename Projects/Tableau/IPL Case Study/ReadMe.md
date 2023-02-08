@@ -1,7 +1,9 @@
-# IPL Dashboard Preview
+# Interactive-IPL Dashboard 
+## A Responsive and attractive Dashboard 🔥
 
-A beautiful dashborad with interactive charts.
-I have used many calculated fields and diffrent logices to create this beautiful dashboard.
+
+A clean, beautiful, and responsive dashboard which gives meaningful insights from data with using Tableau. 
+
 
 Made with ❤️ by Manik
 
