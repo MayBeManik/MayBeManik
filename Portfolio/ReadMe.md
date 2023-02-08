@@ -1,8 +1,8 @@
 # Interactive-Portfolio 
 ## A Responsive and attractive portfolio 🔥
-A clean, beautiful and responsive portfolio templete with using only Power BI.
-Later on add some animation and designing.
-visit the portfolio [here.](https://github.com/MayBeManik/MayBeManik/blob/main/Portfolio/Portfolio.pbix)
+A clean, beautiful, and responsive portfolio template with using only Power BI. 
+
+Later on, add some animation and design. visit the portfolio here. [here.](https://github.com/MayBeManik/MayBeManik/blob/main/Portfolio/Portfolio.pbix)
 
 
 I made my portfolio on Power BI and for opening my portfolio you need to have Power BI Desktop installed on your system.
